@@ -1,4 +1,4 @@
-package br.ifpa.coffebreak.modelos;
+package br.ifpa.coffeebreak.modelos;
 
 public class Musica extends Midia {
     private String artista;

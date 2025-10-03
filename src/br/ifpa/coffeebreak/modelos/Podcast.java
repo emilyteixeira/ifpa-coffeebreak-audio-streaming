@@ -1,4 +1,4 @@
-package br.ifpa.coffebreak.modelos;
+package br.ifpa.coffeebreak.modelos;
 
 import java.util.ArrayList;
 import java.util.List;

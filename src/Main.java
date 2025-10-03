@@ -1,6 +1,6 @@
-import br.ifpa.coffebreak.modelos.Episodio;
-import br.ifpa.coffebreak.modelos.Musica;
-import br.ifpa.coffebreak.modelos.Podcast;
+import br.ifpa.coffeebreak.modelos.Episodio;
+import br.ifpa.coffeebreak.modelos.Musica;
+import br.ifpa.coffeebreak.modelos.Podcast;
 
 import java.time.LocalDate;
 

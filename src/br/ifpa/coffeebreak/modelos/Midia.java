@@ -1,4 +1,4 @@
-package br.ifpa.coffebreak.modelos;
+package br.ifpa.coffeebreak.modelos;
 
 public class Midia {
     private String nome;
